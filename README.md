@@ -155,25 +155,8 @@ Each render includes an "AI-GENERATED RENDER" label in the corner and was design
 
 ## AI Tools Used
 
-- **Claude API (Anthropic)** — powers 3 live in-app AI features (Prospect Qualifier, Venue Recommender, Contact Form response)
-- **Ideogram** — AI-generated visual renders (atrium, luxury corridor, Rotunda Stage)
-- **Framer Motion** — animation patterns and scroll transitions
-- **Recharts** — data visualisation for demographics charts
-- Content sourced from publicly available MOA press materials and official website
+- **Claude API (Anthropic)** — 3 live in-app AI features (Prospect Qualifier, Venue Recommender, Contact Form)
+- **Ideogram** — AI-generated visual renders for atrium, luxury corridor, and Rotunda Stage
 
 ---
-
-## What I'd Improve With More Time
-
-1. **Real video assets** — self-hosted .mp4 instead of YouTube embed for instant play, no controls flash
-2. **GSAP ScrollTrigger** — parallax depth effects on section backgrounds
-3. **Personalised deck URLs** — `/deck/nike`, `/deck/apple` with pre-filled prospect data
-4. **Real-time availability** — live event calendar connected to actual MOA booking system
-5. **3D property map** — Three.js interactive 3D mall model replacing SVG floor plan
-6. **Analytics dashboard** — track which sections prospects spend most time on
-7. **A/B testing** — different hero headlines for retail vs event vs sponsor audience
-8. **Lighthouse 90+** — lazy load images, split code chunks, preload critical fonts
-
----
-
 
