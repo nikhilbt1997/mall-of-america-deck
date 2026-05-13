@@ -113,6 +113,17 @@ CSS Custom Properties    — Luxury design token system
 
 ---
 
+## Lighthouse Performance Scores
+
+Tested on Vercel production deployment:
+
+| Metric | Score |
+|---|---|
+| Performance | 96 ✅ |
+| Accessibility | 90 ✅ |
+| Best Practices | 100 ✅ |
+| SEO | 63 |
+
 ## Setup & Run
 
 ```bash
