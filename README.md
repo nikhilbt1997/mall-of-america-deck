@@ -155,9 +155,10 @@ Each render includes an "AI-GENERATED RENDER" label in the corner and was design
 
 ## AI Tools Used
 
-- **Claude (Anthropic)** — architecture, component design, copy, all AI features
-- **Framer Motion** — animation patterns
-- **Recharts** — data visualisation
+- **Claude API (Anthropic)** — powers 3 live in-app AI features (Prospect Qualifier, Venue Recommender, Contact Form response)
+- **Ideogram** — AI-generated visual renders (atrium, luxury corridor, Rotunda Stage)
+- **Framer Motion** — animation patterns and scroll transitions
+- **Recharts** — data visualisation for demographics charts
 - Content sourced from publicly available MOA press materials and official website
 
 ---
